@@ -1,0 +1,2 @@
+2026-02-06 08:44:47.350205 - FACE_LOCKED: Face locked: lucky
+2026-02-06 08:44:47.778940 - SMILE: Smile detected (ratio: 57.50)

@@ -1,0 +1,7 @@
+2026-02-06 09:35:35.574912 - FACE_LOCKED: Face locked: lucky
+2026-02-06 09:35:36.198972 - HEAD_RIGHT: Moved right by 58.1px
+2026-02-06 09:35:36.773169 - HEAD_RIGHT: Moved right by 57.3px
+2026-02-06 09:35:37.308660 - HEAD_RIGHT: Moved right by 30.1px
+2026-02-06 09:35:37.308660 - EYE_BLINK: Blink detected
+2026-02-06 09:35:37.308660 - SMILE: Smile detected (ratio: 18.63)
+2026-02-06 09:35:37.986035 - HEAD_RIGHT: Moved right by 37.3px

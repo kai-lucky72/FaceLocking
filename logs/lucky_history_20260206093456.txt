@@ -1,0 +1,18 @@
+2026-02-06 09:34:40.274712 - FACE_LOCKED: Face locked: lucky
+2026-02-06 09:34:42.624564 - HEAD_LEFT: Moved left by 15.2px
+2026-02-06 09:34:43.062678 - HEAD_LEFT: Moved left by 15.0px
+2026-02-06 09:34:43.062678 - SMILE: Smile detected (ratio: 45.86)
+2026-02-06 09:34:43.364155 - HEAD_RIGHT: Moved right by 20.4px
+2026-02-06 09:34:47.791139 - SMILE: Smile detected (ratio: 39.44)
+2026-02-06 09:34:48.536750 - HEAD_LEFT: Moved left by 47.7px
+2026-02-06 09:34:48.902392 - HEAD_RIGHT: Moved right by 38.6px
+2026-02-06 09:34:49.435400 - HEAD_RIGHT: Moved right by 14.4px
+2026-02-06 09:34:50.021211 - HEAD_LEFT: Moved left by 23.5px
+2026-02-06 09:34:50.021211 - SMILE: Smile detected (ratio: 30.92)
+2026-02-06 09:34:50.803431 - HEAD_LEFT: Moved left by 15.1px
+2026-02-06 09:34:51.842933 - HEAD_RIGHT: Moved right by 13.4px
+2026-02-06 09:34:52.410096 - HEAD_LEFT: Moved left by 30.3px
+2026-02-06 09:34:52.410096 - SMILE: Smile detected (ratio: 461.22)
+2026-02-06 09:34:53.116293 - HEAD_LEFT: Moved left by 40.8px
+2026-02-06 09:34:53.917649 - HEAD_RIGHT: Moved right by 21.4px
+2026-02-06 09:34:54.617047 - HEAD_LEFT: Moved left by 16.7px

@@ -1,0 +1,11 @@
+2026-02-06 09:35:08.703767 - FACE_LOCKED: Face locked: lucky
+2026-02-06 09:35:09.317635 - SMILE: Smile detected (ratio: 3751.08)
+2026-02-06 09:35:10.301316 - HEAD_LEFT: Moved left by 20.3px
+2026-02-06 09:35:11.058066 - HEAD_RIGHT: Moved right by 15.4px
+2026-02-06 09:35:11.685271 - SMILE: Smile detected (ratio: 38.61)
+2026-02-06 09:35:12.186138 - SMILE: Smile detected (ratio: 363.27)
+2026-02-06 09:35:12.825501 - HEAD_LEFT: Moved left by 14.0px
+2026-02-06 09:35:13.507475 - SMILE: Smile detected (ratio: 42.42)
+2026-02-06 09:35:14.033742 - HEAD_LEFT: Moved left by 18.1px
+2026-02-06 09:35:15.448997 - HEAD_LEFT: Moved left by 139.0px
+2026-02-06 09:35:16.222824 - HEAD_RIGHT: Moved right by 51.7px
